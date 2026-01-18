@@ -4,8 +4,8 @@
 Soy estudiante y me encanta aprender nuevas herramientas.
 
 - 🔭 Actualmente estoy estudiando Desarrollo de Aplicaciones Web.
-- 🌱 Estoy aprendiendo: **[Tecnología nueva, ej: Astro o AWS]**
-- 💬 Pregúntame sobre: **React, Python o Diseño UI/UX**
+- 🌱 Estoy aprendiendo: **[Java, Python]**
+- 💬 Pregúntame sobre: **De momento pocas dudas puedo resolver**
 - 📫 Cómo contactarme: **[jmgd1112@gmail.com]**
 
 ---
